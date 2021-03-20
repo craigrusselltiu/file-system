@@ -1,6 +1,13 @@
 # File System
 A file system written from scratch in C, highlighting memory and resource management using synchronisation primitives. 
 
+## What I Learned
+- C
+- Concurrency (in C)
+- Memory management with malloc and free
+- Hashing and hash trees
+- Among other things!
+
 ## Files and Components
 
 ### file_data
